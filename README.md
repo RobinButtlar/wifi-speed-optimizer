@@ -24,15 +24,6 @@ Run the diagnostic script:
 python3 wifi_enhancer.py
 ```
 
-## Git Basics for this Project
-
-Since you're getting started with Git, here are the essential commands:
-
-- `git status` - See which files have changed or are untracked.
-- `git add <file>` (or `git add .`) - Stage changes to be committed.
-- `git commit -m "Your description"` - Save a snapshot of staged changes.
-- `git push origin main` - Upload your local commits to GitHub.
-- `git pull origin main` - Download and integrate changes from GitHub.
 
 ## License
 MIT
