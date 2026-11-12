@@ -1,3 +1,7 @@
+# Motivation
+
+A fun coding project for me as a really non experienced coder
+
 # WiFi Speed Enhancer & Diagnostics
 
 A lightweight Linux utility to diagnose, benchmark, and optimize Wi-Fi connection performance, latency, and stability.
